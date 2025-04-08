@@ -7,6 +7,7 @@ catboost
 xgboost
 Flask
 dill
-pickle5
+flask
+scikit-learn
 
 #-e .
